@@ -1,4 +1,4 @@
 # Lalit-demo
 This is my first Git repository.
 <br>
-Author - Lalit Pawar.
+Author - Lalit Pawar(computer engineer).
